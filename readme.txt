@@ -1,0 +1,1 @@
+Save idea.properties.init.cmd to the bin directory of IntelliJ IDEA and run.
